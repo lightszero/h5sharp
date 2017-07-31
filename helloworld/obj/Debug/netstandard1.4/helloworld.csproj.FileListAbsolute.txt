@@ -1,0 +1,9 @@
+D:\git\h5\h5sharp\helloworld\bin\Debug\netstandard1.4\helloworld.deps.json
+D:\git\h5\h5sharp\helloworld\obj\Debug\netstandard1.4\helloworld.csprojResolveAssemblyReference.cache
+D:\git\h5\h5sharp\helloworld\obj\Debug\netstandard1.4\helloworld.AssemblyInfo.cs
+D:\git\h5\h5sharp\helloworld\bin\Debug\netstandard1.4\helloworld.dll
+D:\git\h5\h5sharp\helloworld\bin\Debug\netstandard1.4\helloworld.pdb
+D:\git\h5\h5sharp\helloworld\bin\Debug\netstandard1.4\Blazor.AngleSharp.dll
+D:\git\h5\h5sharp\helloworld\bin\Debug\netstandard1.4\Blazor.Runtime.dll
+D:\git\h5\h5sharp\helloworld\obj\Debug\netstandard1.4\helloworld.dll
+D:\git\h5\h5sharp\helloworld\obj\Debug\netstandard1.4\helloworld.pdb

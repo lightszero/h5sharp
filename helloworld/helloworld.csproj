@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup Label="Configuration" Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <OutputType>exe</OutputType>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <TargetFramework>netstandard1.3</TargetFramework>
+    <ApplicationIcon />
+    <OutputTypeEx>exe</OutputTypeEx>
+    <StartupObject />
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <OutputPath>..\testdna\_bin</OutputPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Blazor.AngleSharp">
+      <HintPath>..\testdna\_framework\Blazor.AngleSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Blazor.Runtime">
+      <HintPath>..\testdna\_framework\Blazor.Runtime.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

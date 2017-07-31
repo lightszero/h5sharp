@@ -1,0 +1,9 @@
+D:\git\h5\h5sharp\testdna\ConsoleApp1\bin\Debug\netcoreapp1.1\ConsoleApp1.deps.json
+D:\git\h5\h5sharp\testdna\ConsoleApp1\bin\Debug\netcoreapp1.1\ConsoleApp1.runtimeconfig.json
+D:\git\h5\h5sharp\testdna\ConsoleApp1\bin\Debug\netcoreapp1.1\ConsoleApp1.runtimeconfig.dev.json
+D:\git\h5\h5sharp\testdna\ConsoleApp1\bin\Debug\netcoreapp1.1\ConsoleApp1.dll
+D:\git\h5\h5sharp\testdna\ConsoleApp1\bin\Debug\netcoreapp1.1\ConsoleApp1.pdb
+D:\git\h5\h5sharp\testdna\ConsoleApp1\obj\Debug\netcoreapp1.1\ConsoleApp1.csprojResolveAssemblyReference.cache
+D:\git\h5\h5sharp\testdna\ConsoleApp1\obj\Debug\netcoreapp1.1\ConsoleApp1.AssemblyInfo.cs
+D:\git\h5\h5sharp\testdna\ConsoleApp1\obj\Debug\netcoreapp1.1\ConsoleApp1.dll
+D:\git\h5\h5sharp\testdna\ConsoleApp1\obj\Debug\netcoreapp1.1\ConsoleApp1.pdb

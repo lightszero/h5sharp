@@ -1,0 +1,16 @@
+D:\git\h5\h5sharp\helloworld\bin\Debug\netstandard1.3\helloworld.deps.json
+D:\git\h5\h5sharp\helloworld\obj\Debug\netstandard1.3\helloworld.AssemblyInfo.cs
+D:\git\h5\h5sharp\helloworld\bin\Debug\netstandard1.3\helloworld.dll
+D:\git\h5\h5sharp\helloworld\bin\Debug\netstandard1.3\helloworld.pdb
+D:\git\h5\h5sharp\helloworld\bin\Debug\netstandard1.3\Blazor.AngleSharp.dll
+D:\git\h5\h5sharp\helloworld\bin\Debug\netstandard1.3\Blazor.Runtime.dll
+D:\git\h5\h5sharp\helloworld\obj\Debug\netstandard1.3\helloworld.dll
+D:\git\h5\h5sharp\helloworld\obj\Debug\netstandard1.3\helloworld.pdb
+D:\git\h5\h5sharp\helloworld\bin\Debug\netstandard1.3\helloworld.runtimeconfig.json
+D:\git\h5\h5sharp\helloworld\bin\Debug\netstandard1.3\helloworld.runtimeconfig.dev.json
+D:\git\h5\h5sharp\helloworld\obj\Debug\netstandard1.3\helloworld.csprojResolveAssemblyReference.cache
+D:\git\h5\h5sharp\testdna\_bin\netstandard1.3\helloworld.deps.json
+D:\git\h5\h5sharp\testdna\_bin\netstandard1.3\helloworld.runtimeconfig.json
+D:\git\h5\h5sharp\testdna\_bin\netstandard1.3\helloworld.runtimeconfig.dev.json
+D:\git\h5\h5sharp\testdna\_bin\netstandard1.3\helloworld.dll
+D:\git\h5\h5sharp\testdna\_bin\netstandard1.3\helloworld.pdb
