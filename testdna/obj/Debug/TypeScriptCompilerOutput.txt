@@ -20,3 +20,5 @@ D:\git\h5\h5sharp\testdna\app.js
 D:\git\h5\h5sharp\testdna\app.js.map
 D:\git\h5\h5sharp\testdna\app.js
 D:\git\h5\h5sharp\testdna\app.js.map
+D:\git\h5\h5sharp\testdna\app.js
+D:\git\h5\h5sharp\testdna\app.js.map
