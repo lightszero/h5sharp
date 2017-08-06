@@ -1,0 +1,6 @@
+D:\git\h5\h5sharp\testwasm\obj\Debug\testwasm.csprojResolveAssemblyReference.cache
+D:\git\h5\h5sharp\testwasm\bin\TypeScriptHTMLApp1.dll.config
+D:\git\h5\h5sharp\testwasm\bin\TypeScriptHTMLApp1.dll
+D:\git\h5\h5sharp\testwasm\bin\TypeScriptHTMLApp1.pdb
+D:\git\h5\h5sharp\testwasm\obj\Debug\TypeScriptHTMLApp1.dll
+D:\git\h5\h5sharp\testwasm\obj\Debug\TypeScriptHTMLApp1.pdb
