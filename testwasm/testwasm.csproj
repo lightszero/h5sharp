@@ -68,6 +68,8 @@
     <TypeScriptSourceRoot />
   </PropertyGroup>
   <ItemGroup>
+    <Content Include="b01.wasm" />
+    <Content Include="out.wasm" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -78,6 +80,7 @@
   <ItemGroup>
     <Content Include="app.css" />
     <Content Include="index.html" />
+    <None Include="b01.wast" />
     <Content Include="Web.config" />
     <TypeScriptCompile Include="webassembly.d.ts" />
   </ItemGroup>
