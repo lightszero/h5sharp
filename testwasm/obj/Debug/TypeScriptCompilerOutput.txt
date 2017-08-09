@@ -56,3 +56,9 @@ D:\git\h5\h5sharp\testwasm\app.js
 D:\git\h5\h5sharp\testwasm\app.js.map
 D:\git\h5\h5sharp\testwasm\app.js
 D:\git\h5\h5sharp\testwasm\app.js.map
+D:\git\h5\h5sharp\testwasm\app.js
+D:\git\h5\h5sharp\testwasm\app.js.map
+D:\git\h5\h5sharp\testwasm\app.js
+D:\git\h5\h5sharp\testwasm\app.js.map
+D:\git\h5\h5sharp\testwasm\app.js
+D:\git\h5\h5sharp\testwasm\app.js.map

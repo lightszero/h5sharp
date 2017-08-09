@@ -4,18 +4,29 @@
 
     (func $add (param $x i32) (param $y i32) 
         (result i32)
-        (local $x i32)
-        loop
-            get_local $x
-            get_local $y
-            i32.add
-            set_local $x
-            i32.const 0
-            br 1//这个br 0.对loop 就是跳到开始
-            //对block 和 br1 一样
-            //br 1 跳出块，但要从栈上吃掉一个参数
-        end
-        get_local $x
+        (local $ox i32)
+		i32.const 33
+		block 
+			i32.const 33
+			block 
+				loop;;loop的br 0 到这里
+					get_local $x
+					get_local $y
+					i32.add
+					set_local $ox
+					;;i32.const 58
+					br 2	;;这个br 0.对loop 就是跳到开始 
+							;;对block是跳至当前的end
+
+							;;br 1 跳出两个end，loop是不可能跳至自己的end后面的
+				end
+				i32.const 33
+				return
+			end;;br 1 到这里
+			i32.const 44
+			return
+		end;;br 2 到这里
+        get_local $ox
         return
     )
 
